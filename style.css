@@ -6,7 +6,7 @@ body{
     text-align: center;
 }
 h1{
-    color: darkslategray
+    color: darkslategray;
 }
 form{
 background-color: darkgrey;
@@ -39,4 +39,5 @@ cursor: pointer;
 }
 input[type="submit"]:hover{
     background-color: red
+
 }
